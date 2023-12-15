@@ -53,10 +53,10 @@ fun QiwiImageWithText() {
                 fontSize = 32.sp
             )
             Text(
-                text = "Ілля Кива",
+                text = "Микола Гнатюк",
                 color = MaterialTheme.colorScheme.secondary,
                 modifier = Modifier.padding(top = 8.dp),
-                fontSize = 58.sp
+                fontSize = 46.sp
             )
             Spacer(modifier = Modifier.height(72.dp))
             Row(
